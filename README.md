@@ -26,3 +26,14 @@ Here are some ideas to get you started:
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+## 💻 : Building in Public:
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika-srivastava&hide=php&theme=tokyonight">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika-srivastava&hide=php&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api?username=vanshika-srivastava&theme=tokyonight">
+<img  align="left" src="https://github-readme-stats.vercel.app/api?username=vanshika-srivastava&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+</div>
+
