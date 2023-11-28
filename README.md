@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/-Solidity?style=flat&logo=solidity&logoColor=black&color=white" alt="Solidity" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.svgrepo.com/show/374088/solidity.svg" alt="Solidity" height="40"  margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" alt="Ethereum" height="40" style="vertical-align:top; ">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
 </p>
 
