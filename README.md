@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me:
 - Email : vanshikasrivastava.business@gmail.com
-- Twitter : ThisisVanshika (13.6k audience)
+- Twitter : ThisisVanshika (13.8k audience)
 
 
   ## 🧰 Languages and Tools:
