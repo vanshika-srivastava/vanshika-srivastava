@@ -4,7 +4,7 @@ I'm a tech enthusiast with a background in finance and business. I love to build
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Web3 Projects, Account Abstractions, L2s
+- 🔭 I’m currently working on Open Source and Web3 Projects, Account Abstractions, L2s
 - 🌱 I’m currently building using NextJS and Typescript
 - 👯 I’m looking to collaborate on Developer Content and Open Source
 
