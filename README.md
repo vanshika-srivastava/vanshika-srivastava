@@ -1,5 +1,7 @@
 ### Hi there 👋 Vanshika this side!
 
+<p align="center">Developer Relations Engineer/Manager @Gnosis Chain | Tech Ambassador : @zetachain </p>
+
 I'm a tech enthusiast with a background in finance and business. I love to build solutions for startups and enjoy practicising Developer Relations. I'm contributing in open source space since 2021 and switched to web3 last year.
 
 Here are some ideas to get you started:
