@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ## 💻 : Building in Public:
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika-srivastava&hide=php&theme=tokyonight">
+<!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika-srivastava&hide=php&theme=tokyonight">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika-srivastava&hide=php&theme=tokyonight" />
-</a>
+</a> -->
 <a href="https://github-readme-stats.vercel.app/api?username=vanshika-srivastava&theme=tokyonight">
 <img  align="left" src="https://github-readme-stats.vercel.app/api?username=vanshika-srivastava&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
