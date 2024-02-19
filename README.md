@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - Email : vanshikasrivastava.business@gmail.com
 - Twitter : ThisisVanshika (13.8k audience)
 
+👷‍♀️ Previous Work at : @boxyHQ | @biconomy | @gelato 
 
   ## 🧰 Languages and Tools:
 
