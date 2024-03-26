@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me:
 - Email : vanshikasrivastava.business@gmail.com
-- Twitter : ThisisVanshika (13.9k audience)
+- Twitter : ThisisVanshika (14k audience)
 
 👷‍♀️ Previous Work at : @boxyHQ | @biconomy | @gelato 
 
