@@ -2,13 +2,13 @@
 
 👷‍♀️ Developer Relations Engineer/Manager @Gnosis Chain | ex - Tech Ambassador : @Zetachain 
 
-I'm a tech enthusiast with a background in finance and business. I love to build solutions for startups and enjoy practicising Developer Relations. I'm contributing in open source space since 2021 and switched to web3 last year.
+I'm a tech enthusiast with a background in finance and business. I love to build solutions for startups and enjoy practicising Developer Relations. I'm contributing in open source space since 2021 and switched to web3 in 2022.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Open Source and Web3 Projects, Account Abstractions, L2s
+- 🔭 I’m currently working on Open Source and Web3 Projects, Account Abstractions, scaling L1s, Rollups and more!
 - 🌱 I’m currently building using NextJS and Typescript
-- 👯 I’m looking to collaborate on Developer Content and Open Source
+- 👯 I’m looking to collaborate on Developer Content and Open Source both web2 and web3 related
 
 - 📫 How to reach me:
 - Email : vanshikasrivastava.business@gmail.com
