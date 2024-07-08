@@ -1,6 +1,6 @@
 ### Hi there 👋 Vanshika this side!
 
-👷‍♀️ Developer Relations Engineer/Manager @Gnosis, working with Gnosis Chain Team, extending developer experience to Circles UBI, Gnosis Pay | ex - Tech Ambassador : @Zetachain | ex DevRel @ Biconomy
+👷‍♀️ Developer Relations Engineer/Manager @Gnosis, working with Gnosis Chain Team, extending developer experience to Circles UBI, Gnosis Pay, Gnosis AI Labs| ex - Tech Ambassador : @Zetachain | ex DevRel @ Biconomy
 
 I'm a tech enthusiast with a background in finance and business. I love to build solutions for startups and enjoy practicising Developer Relations. I'm contributing in open source space since 2021 and switched to web3 in 2022.
 
