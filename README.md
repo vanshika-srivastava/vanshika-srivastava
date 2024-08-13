@@ -1,6 +1,7 @@
 ### Hi there 👋 Vanshika this side!
 
-👷‍♀️ Developer Relations Engineer/Manager @Gnosis, working with Gnosis Chain Team, extending developer experience to Circles UBI, Gnosis Pay, Gnosis AI Labs| Advocate Ambassador @MorphL2
+👷‍♀️ Developer Relations Engineer/Manager @Gnosis, working with Gnosis Chain Team, extending developer experience to Circles UBI, Gnosis Pay, Gnosis AI Labs | 
+Advocate Ambassador @MorphL2
 
 ex - Tech Ambassador : @Zetachain | ex DevRel @ Biconomy
 
